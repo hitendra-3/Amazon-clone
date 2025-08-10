@@ -1,21 +1,23 @@
-# Amazon-clone
-A simple clone of the Amazon homepage built using HTML, CSS, and vanilla JavaScript. This project replicates the core layout and design of the Amazon UI with a focus on responsiveness and clean code.
+# 🛒 Amazon Clone (Frontend Only)
 
-📁 Tech Stack
+A **frontend-only** clone of Amazon’s website built using **HTML**, **CSS**, and **JavaScript**.  
+This project focuses on replicating Amazon’s **UI design** and **basic interactions** for learning and demonstration purposes.
 
-HTML5
+## 🚀 Features
+- 📦 Product listings with images, titles, and prices  
+- 🛍 Add to Cart button (UI only)  
+- 🔍 Search bar for filtering products (static search)  
+- 📱 Responsive design for all screen sizes  
+- 🖼 Banner sliders & promotional sections  
+- 🧭 Navigation bar & categories  
 
-CSS3 (Flexbox, Grid)
+## 🛠 Setup & Usage
+1. Clone or download the repository.  
+2. Open `index.html` in your browser.  
+3. Browse products, use the search bar, and navigate categories.  
 
-JavaScript (ES6+)
+> **Note:** This is a **frontend-only project** — no backend functionality is implemented.
 
-🚀 Getting Started
-
-Clone the repository
-
-Navigate to the project folder:
-
-cd amazon-clone
-
-Open index.html in your browser.
-
+## 📜 License
+Created for **educational purposes** only.  
+Not affiliated with or endorsed by Amazon.
