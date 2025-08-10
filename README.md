@@ -4,14 +4,14 @@ A simple clone of the Amazon homepage built using HTML, CSS, and vanilla JavaScr
 📁 Tech Stack
 
 HTML5
+
 CSS3 (Flexbox, Grid)
+
 JavaScript (ES6+)
 
 🚀 Getting Started
 
-Clone the repository:
-
-git clone https://github.com/your-username/amazon-clone.git
+Clone the repository
 
 Navigate to the project folder:
 
